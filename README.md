@@ -7,9 +7,9 @@ This repository contains Jupyter notebooks and datasets designed for visualizing
 ## Contents
 - **Notebooks**:
     - `UpSet.ipynb` : A Jupyter notebook that generates UpSet plots to visualize intersections of gene expression data. The script restricts the displayed intersections to a user-defined relevant set and allows plotting proportions of reads (e.g., TPM) instead of gene counts.\
-    ![Example UpSet Plot ><](images/UpSetPlot.png)</br>
+![Example UpSet Plot ><](images/UpSetPlot.png)</br>
     - `GenomicFeatures.ipynb` : A Jupyter notebook to draw genomic features such as viral ORFs.\
-    ![Example Genomic Features Figure ><](images/genome_feature.png)</br>
+![Example Genomic Features Figure ><](images/genome_feature.png)</br>
     - `create_dummy_dataset.ipynb`: A Jupyter notebook to generate a synthetic dataset
 
 - **Data**:
