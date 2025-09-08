@@ -7,6 +7,8 @@ This repository contains Jupyter notebooks and datasets designed for visualizing
 ## Contents
 - **Notebooks**:
     - `UpSet.ipynb` : A Jupyter notebook that generates UpSet plots to visualize intersections of gene expression data. The script restricts the displayed intersections to a user-defined relevant set and allows plotting proportions of reads (e.g., TPM) instead of gene counts.
+        - **Example Output**:
+      ![Example UpSet Plot](images/UpSetPlot.png)
     - `create_dummy_dataset.ipynb`: A Jupyter notebook to generate a synthetic dataset
 
 - **Data**:
@@ -19,6 +21,3 @@ To run the notebooks, install the following Python packages:
 - `upsetplot>=0.8.0`
 - `matplotlib>=3.5.0`
 - `jupyter`
-
-
-- `notebooks/UpSet.ipynb`:  It uses a MultiIndex to handle complex categorical data and includes stacked bar plots for additional insights (e.g., gene biotype distribution).
