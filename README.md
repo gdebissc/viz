@@ -10,7 +10,7 @@ This repository contains Jupyter notebooks and datasets designed for visualizing
 ![Example UpSet Plot ><](images/UpSetPlot.png)</br></br>
     - `GenomicFeatures.ipynb` to draw genomic features such as viral ORFs.</br>
 ![Example Genomic Features Figure ><](images/genome_feature.png)</br></br>
-- `RNAfoldDotPlots.ipynb` to extract RNAfold base-pairing probabilities from .ps files and draw a dotplot contrasting base-pair probabilities across two conditions</br>
+    - `RNAfoldDotPlots.ipynb` to extract RNAfold base-pairing probabilities from .ps files and draw a dotplot contrasting base-pair probabilities across two conditions</br>
 ![Example DotPlot Figure ><](images/RNAfoldDotPlot.png)</br></br>
     - `create_dummy_dataset.ipynb`: A Jupyter notebook to generate a synthetic dataset
 
